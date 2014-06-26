@@ -15,9 +15,9 @@ import java.util.Vector;
 public class CoinDefinition {
 
 
-    public static final String coinName = "digitalcoin";
-    public static final String coinTicker = "DGC";
-    public static final String coinURIScheme = "digitalcoin";
+    public static final String coinName = "blazecoin";
+    public static final String coinTicker = "BLZ";
+    public static final String coinURIScheme = "blazecoin";
     public static final String cryptsyMarketId = "26";
     public static final String cryptsyMarketCurrency = "BTC";
     public static final String PATTERN_PRIVATE_KEY_START = "6";
@@ -37,7 +37,7 @@ public class CoinDefinition {
     public static final String BLOCKEXPLORER_BLOCK_PATH = "block/info/";                 //blockr.io path
     public static final String BLOCKEXPLORER_BASE_URL_TEST = BLOCKEXPLORER_BASE_URL_PROD;
 
-    public static final String DONATION_ADDRESS = "DPdbL3n3Y3ypwVEvY3wABmpbjsd3AVqm5M";  //HashEngineering donation DGC address
+    public static final String DONATION_ADDRESS = "Bm3XupgtJLRhtT3XkdAzknGwjw1s1pff3d";  //HashEngineering donation DGC address
 
     enum CoinHash {
         SHA256,
